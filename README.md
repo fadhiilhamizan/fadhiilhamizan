@@ -16,7 +16,7 @@
 
 ---
 
-### 🌱 A bit about me
+### A bit about me
 
 I'm currently studying Information Systems at Institut Teknologi Sepuluh Nopember (ITS), Surabaya. Most of my time goes into building web projects, tinkering with game ideas, and occasionally helping run events through student organizations on campus.
 
@@ -24,13 +24,13 @@ I like turning small, everyday problems into working apps. Bookuy started becaus
 
 Outside of code, I spend time with game development, since I like building experiences almost as much as I like building software.
 
-### 🛠️ What I work with
+### What I work with
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,php,python,cs,css,html,laravel,mysql,figma,cpp,lua" />
 </p>
 
-### 🚀 Projects I'm proud of
+### Projects I'm proud of
 
 <table>
   <tr>
@@ -43,7 +43,7 @@ Outside of code, I spend time with game development, since I like building exper
       A clean, simple weather app built to practice working with live APIs and presenting data in a way that's actually pleasant to look at.
     </td>
     <td width="33%" valign="top">
-      <b>⚡ <a href="https://github.com/fadhiilhamizan/Momentum">Momentum</a></b><br/>
+      <b>🔥 <a href="https://github.com/fadhiilhamizan/Momentum">Momentum</a></b><br/>
       A project focused on helping keep track of tasks and daily progress, built to make staying on top of things feel a little less overwhelming.
     </td>
   </tr>
