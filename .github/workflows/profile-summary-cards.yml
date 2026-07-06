@@ -23,8 +23,8 @@ jobs:
       
       - name: Generate summary cards
         run: |
-          pip install github-profile-summary-cards
-          python -m github_profile_summary_cards
+          pip install github-profile-cards
+          python -m github_profile_cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
