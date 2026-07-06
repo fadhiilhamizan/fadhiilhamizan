@@ -20,7 +20,7 @@
 
 I'm currently studying Information Systems at Institut Teknologi Sepuluh Nopember (ITS), Surabaya. Most of my time goes into building web projects, tinkering with game ideas, and occasionally helping run events through student organizations on campus.
 
-I like turning small, everyday problems into working apps. Bookuy started because I got tired of seeing classmates struggle to trade secondhand textbooks. LoopLook came from thinking about how clothing recycling apps could actually look inviting instead of clinical. That's usually how my projects start: a problem I've noticed, then a lot of trial and error until something works.
+I like turning small, everyday problems into working apps. Bookuy started because I got tired of seeing classmates struggle to trade secondhand textbooks. Momentum came from wanting a task manager that actually helps me stay consistent instead of just listing chores. That's usually how my projects start: a problem I've noticed, then a lot of trial and error until something works.
 
 Outside of code, I spend time with game development, since I like building experiences almost as much as I like building software.
 
@@ -34,23 +34,17 @@ Outside of code, I spend time with game development, since I like building exper
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <b>🌤️ weather-dashboard</b><br/>
+      A fast, full-stack weather dashboard built around a backend proxy, response caching, and a UI whose sky changes to match the forecast. Search any city (or use your location) and get current conditions at a glance.
+    </td>
+    <td width="33%" valign="top">
+      <b>🚀 Momentum</b><br/>
+      A premium task management desktop application designed to help you build consistent daily momentum, stay focused, and achieve your long-term goals seamlessly.
+    </td>
+    <td width="33%" valign="top">
       <b>📚 Bookuy</b><br/>
-      A student-centric marketplace for buying, selling, and renting books. Built with Laravel 12 and PHP 8.2, made to make textbook trading among students less of a hassle.
-    </td>
-    <td width="50%" valign="top">
-      <b>👕 LoopLook</b><br/>
-      UI design work for a sustainable clothing recycling app, focused on making eco-friendly choices feel approachable rather than preachy.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🎮 Game Development</b><br/>
-      Internal Finalist at GEMASTIK 2024 and First Place winner at ISCOM 2024, both in the Game Application Development category.
-    </td>
-    <td width="50%" valign="top">
-      <b>🌤️ Weather Dashboard</b><br/>
-      A clean, simple weather app built to practice working with live APIs and presenting data in a way that's actually pleasant to look at.
+      An eco-friendly, cost-effective academic marketplace that bridges the gap between students who have unused books and those who need them.
     </td>
   </tr>
 </table>
@@ -66,13 +60,7 @@ Outside of code, I spend time with game development, since I like building exper
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-</p>
-
-<p align="center">
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
 ### 💬 Let's talk
