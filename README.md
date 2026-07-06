@@ -67,7 +67,17 @@ Outside of code, I spend time with game development, since I like building exper
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadhiilhamizan&theme=tokyonight" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
 ### 💬 Let's talk
