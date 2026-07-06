@@ -67,7 +67,7 @@ Outside of code, I spend time with game development, since I like building exper
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/radar-chart?username=fadhiilhamizan&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadhiilhamizan&theme=tokyonight" />
 </p>
 
 ### 💬 Let's talk
