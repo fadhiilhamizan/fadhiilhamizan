@@ -58,11 +58,6 @@ Outside of code, I spend time with game development, since I like building exper
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fadhiilhamizan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhiilhamizan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadhiilhamizan&theme=tokyonight&hide_border=true" />
 </p>
 
