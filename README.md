@@ -52,10 +52,6 @@ Outside of code, I spend time with game development, since I like building exper
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadhiilhamizan&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
