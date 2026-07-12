@@ -59,10 +59,6 @@ Outside of code, I spend time with game development, since I like building exper
   <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" />
-</p>
-
 ### 💬 Let's talk
 
 I'm always up for a conversation about web development, game design, or campus tech events. Feel free to reach out through LinkedIn or email, I usually reply within a day or two.
